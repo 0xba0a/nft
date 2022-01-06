@@ -1,0 +1,123 @@
+
+
+
+  body{
+    background-color: #041C32;
+
+  }
+
+  .inner{
+    position: absolute;
+    width: 240px;
+    height: 27.5rem;
+    background-color:#06294a ;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.56) 0 22px 70px 4px;
+  }
+
+.equilibrium{
+  margin-left: 20px;
+}
+
+  p{
+    display: inline;
+  }
+
+  .equi{
+    font-family: 'Outfit', sans-serif;
+    color: #EAF6F6;
+    margin-left: 20px;
+  }
+
+.equicol{
+margin: 20px;
+display: block;
+color: #8bacd9;
+font-family: 'Quicksand', sans-serif;
+font-size: 13px;
+font-weight: 500;
+}
+
+.equilibrium{
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.equilibrium{
+  border-radius: 5px;
+}
+
+.unit{
+  font-family: 'Outfit', sans-serif;
+  color: #28fff5;
+margin-left: 4px;
+  font-size: 10px;
+}
+
+.etherum{
+  width: 10px;
+  height: 17px;
+  float: left;
+}
+
+.clock{
+  width: 15px;
+  height: 15px;
+  float: left;
+  margin-left: 65px;
+  margin-top: 2px;
+}
+
+.duration{
+  font-family: 'Outfit', sans-serif;
+  color: #8bacd9;
+font-size: 10px;
+margin-left: 4px;
+}
+table{
+  margin-left: 20px;
+  width: 200px;
+}
+hr{
+  width: 200px;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  margin-top: 20px;
+  border-color: #8bacd9;
+}
+.jw{
+  width: 25px;
+  height: 25px;
+  margin-left: 20px;
+  margin-top: 3px;
+  float: left;
+  border-radius: 100px;
+  border: 0.09px solid;
+  border-color: #EAF6F6;;
+}
+
+.creator{
+  font-family: 'Outfit', sans-serif;
+  color: #8bacd9;
+  font-size: 12px;
+  margin-left: 11px;
+  margin-top: 9px;
+  position: absolute;
+}
+span{
+  color: #EAF6F6;
+}
+.attribution{
+  color: darkgrey;
+}
+a{
+  color: #EAF6F6;
+}
